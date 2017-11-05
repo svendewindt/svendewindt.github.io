@@ -1,5 +1,3 @@
-# Een aantal links
-
 ## Planning
 [Trello](https://www.trello.com)  
 [Mail](https://www.gmail.com)  
