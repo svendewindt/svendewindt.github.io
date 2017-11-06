@@ -14,9 +14,11 @@
 ## Sensu
 [Monitor everything](https://ianunruh.com/2014/05/monitor-everything.html)  
 [How to send events to elk](https://msolution.io/2015/12/02/how-to-send-your-sensu-events-to-elk-platform/) 
+[Sensu introduction](https://www.udemy.com/sensu-introduction/)
 
 ## Test
 [Sensu](http://sjef.wotas.be:3000)  
 [Chef](https://sjeft.wotas.be)  
+
 
 
