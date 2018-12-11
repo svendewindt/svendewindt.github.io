@@ -2,6 +2,8 @@
 
 Welcome to the Team Tile site. Here you can find some url's for easy access.
 
+    First time users might need to enroll in multifactor authentication (MFA). Keep your mobile nearby.
+
 ## Microsoft portals
 
 - <a href="https://portal.office365.com" target="_blank">Portal Office 365</a>
