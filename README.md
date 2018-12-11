@@ -10,7 +10,8 @@ Welcome to the Team Tile site. Here you can find some url's for easy access.
 - <a href="https://portal.office365.com" target="_blank">Portal Office 365</a>
 - <a href="https://portal.azure.com"  target="_blank">Portal Azure</a>
 - <a href="https://myapps.microsoft.com"  target="_blank">My Apps</a>
+- <a href="https://aka.ms/sspr" target="_blank">Self service password reset</a>
 
 ## Team Tile sites
 
-- <a href="https://rds1.teamtile.be/rdweb"  target="_blank">Remote desktop environment</a>
+- <a href="https://rds1.teamtile.be/rdweb"  target="_blank">Secure remote desktop environment</a>
