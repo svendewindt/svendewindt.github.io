@@ -2,7 +2,8 @@
 
 Welcome to the Team Tile site. Here you can find some url's for easy access.
 
-    First time users might need to enroll in multifactor authentication (MFA). Keep your mobile nearby.
+> First time users might need to enroll in multifactor authentication (MFA). 
+> Keep your mobile nearby.
 
 ## Microsoft portals
 
