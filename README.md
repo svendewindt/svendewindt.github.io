@@ -8,9 +8,12 @@ Welcome to the Team Tile site. Here you can find some url's for easy access.
 ## Microsoft portals
 
 - <a href="https://portal.office365.com" target="_blank">Portal Office 365</a>
+  - <a href="https://outlook.office365.com" target="_blank">Webmail</a>
+  - <a href="https://teamtile.sharepoint.com" target="_blank">Sharepoint</a>
+  - <a href="https://teamtile-my.sharepoint.com" target="_blank">OneDrive for business</a>
+  - <a href="https://teams.microsoft.com" target="_blank">Teams</a>
 - <a href="https://portal.azure.com"  target="_blank">Portal Azure</a>
 - <a href="https://myapps.microsoft.com"  target="_blank">My Apps</a>
-- <a href="https://aka.ms/sspr" target="_blank">Self service password reset</a>
 
 ## Team Tile sites
 
