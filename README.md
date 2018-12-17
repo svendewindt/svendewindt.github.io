@@ -18,3 +18,8 @@ Welcome to the Team Tile site. Here you can find some url's for easy access.
 ## Team Tile sites
 
 - <a href="https://rds1.teamtile.be/rdweb"  target="_blank">Secure remote desktop environment</a>
+
+## Cloud Applications
+
+- <a href="http://tiledummy-env.aept4rmggi.eu-central-1.elasticbeanstalk.com/" target="_blank">Beanstalk single application</a>
+- <a href="http://tile.ecstacid.be" target="_blank">Kubernetes application</a>
